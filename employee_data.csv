@@ -1,0 +1,54 @@
+Emp_ID,Name,Gender,Department,Role,Salary,Joining_Date,Location,Performance_Score
+20,Neha,Male,Human Resource,Manager,119158,10-02-2014,Mumbai,5
+42,Meena,Female,it,Manager,84740,18-11-2011,Delhi,1
+48,Vikas,Female,FINANCE,Executive,107568,11-12-2018,delhi,4
+13,Shreya,Male,hr,Executive,111338,08-09-2010,Chennai,
+44,Priya,Male,Sales,Analyst,65884,22-07-2020,mumbai,1
+6,Meena,Male,FINANCE,Analyst,83655,26-09-2020,Chennai,4
+18,Anjali,Male,Marketing,Intern,58969,19-03-2018,,4
+28,Ravi,Female,IT,Executive,,21-07-2015,mumbai,1
+4,Ravi,Female,Sales,Analyst,,26-07-2013,Hyderabad,5
+33,Rahul,Male,HR,Manager,72382,09-03-2020,Chennai,4
+14,Deepak,Female,IT,Developer,,05-06-2011,Hyderabad,3
+9,Manish,Male,Operations,Analyst,101042,25-07-2016,delhi,2
+27,Priya,Male,it,Manager,,26-02-2020,Chennai,2
+7,Pooja,Male,it,Analyst,117081,23-04-2011,mumbai,2
+35,Shreya,Female,Marketing,Intern,,02-03-2021,Delhi,5
+5,Sneha,Male,hr,Manager,,07-10-2014,mumbai,5
+38,Rahul,Male,hr,Intern,,04-08-2010,Hyderabad,2
+25,Anjali,Male,Operations,Manager,,22-08-2020,Mumbai,1
+45,Anjali,Female,Human Resource,Executive,98952,04-04-2023,Mumbai,2
+34,Mohit,Male,FINANCE,Executive,,28-02-2012,delhi,4
+50,Riya,Male,Operations,Developer,,07-11-2019,mumbai,5
+16,Arjun,Female,FINANCE,Analyst,,04-01-2020,Delhi,1
+10,Neha,Female,it,Analyst,56183,01-10-2018,,4
+17,Divya,Male,HR,Intern,87489,23-10-2015,,2
+31,Rahul,Male,Marketing,Intern,,26-07-2012,Delhi,3
+37,Divya,Male,IT,Intern,,12-11-2013,Delhi,5
+26,Arjun,Female,Sales,Executive,27542,04-09-2022,delhi,3
+12,Manish,Male,Marketing,Intern,,27-07-2011,Mumbai,4
+1,Riya,Male,FINANCE,Executive,,02-10-2022,Hyderabad,1
+47,Ravi,Male,it,Intern,106045,25-05-2015,Chennai,4
+28,Ravi,Female,IT,Executive,,21-07-2015,mumbai,1
+32,Mohit,Female,IT,Analyst,56734,22-05-2022,delhi,
+40,Sneha,Male,Finance,Intern,95697,02-05-2013,mumbai,
+30,Manish,Female,Operations,Analyst,104734,26-02-2021,Chennai,5
+46,Manish,Male,HR,Manager,,08-03-2015,mumbai,1
+2,Deepak,Female,it,Developer,,28-12-2015,delhi,4
+22,Neha,Male,Human Resource,Intern,,28-02-2014,Delhi,5
+3,Sneha,Female,FINANCE,Developer,,04-04-2020,Bangalore,1
+41,Riya,Male,hr,Manager,,07-03-2010,Delhi,1
+36,Rahul,Male,it,Analyst,,09-02-2019,,3
+24,Manish,Female,it,Manager,89739,28-10-2021,Chennai,2
+49,Amit,Female,hr,Executive,,24-06-2018,Delhi,5
+11,Vikas,Female,Operations,Executive,,06-08-2021,delhi,4
+23,Manish,Female,Sales,Manager,,09-01-2017,Mumbai,2
+19,Arjun,Female,HR,Analyst,39117,17-04-2020,Bangalore,4
+41,Riya,Male,hr,Manager,,07-03-2010,Delhi,1
+21,Mohit,Female,Sales,Analyst,,03-08-2018,Delhi,3
+8,Amit,Male,Human Resource,Analyst,,02-01-2019,mumbai,
+43,Shreya,Female,Human Resource,Intern,21582,27-08-2022,Bangalore,5
+15,Vikas,Male,HR,Manager,,02-05-2017,Hyderabad,1
+29,Amit,Male,Human Resource,Developer,,22-06-2015,Bangalore,1
+36,Rahul,Male,it,Analyst,,09-02-2019,,3
+39,Manish,Female,IT,Developer,,10-09-2020,Chennai,2
